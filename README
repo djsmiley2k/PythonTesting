@@ -1,0 +1,27 @@
+##########################
+Number randomiser 1 to 10.
+- Tim Bowers
+- Sepember 2020
+##########################
+Description:
+Python script to print out the numbers 1 to 10 in a randomised order.
+Each time the script runs, the output is randomised.
+#########################
+
+## Installation
+
+Requires python 3.
+
+Download the 1to10.py file to your local storage.
+
+Change to the directory the file has been downloaded to, in this example 'Downloads':
+# cd ~/Downloads/
+
+Mark the 1to10.py file executable:
+# chmod +x ./1to10.py
+
+Execute the file:
+# ./1to10.py
+
+If you get errors, it maybe due to python 2 being called, but if python 3 is installed you can call it specifically:
+# /usr/bin/python3 ./1to10.py 
